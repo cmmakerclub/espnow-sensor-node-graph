@@ -5,5 +5,6 @@ import App from './App';
 import paho from 'paho-mqtt/mqttws31'
 import registerServiceWorker from './registerServiceWorker';
 
+console.log(paho)
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
