@@ -1,0 +1,3 @@
+[submodule "src/react-mqtt-topology"]
+	path = src/react-mqtt-topology
+	url = https://github.com/cmmakerclub/espnow-sensor-node-graph.git
